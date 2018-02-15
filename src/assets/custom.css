@@ -1,0 +1,5 @@
+.loginBg{background: url(img/login-bg.png) no-repeat;}
+.logo{margin: 100px 0;}
+.loginBg .item-block{background: none!important;}
+.loginBg .list > .item-block:first-child{border-top: none;}
+.loginBg .item{color: #fff;padding-left: 0;}
